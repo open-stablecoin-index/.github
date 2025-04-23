@@ -53,9 +53,13 @@ The Open Stablecoin Index tracks leading decentralized stablecoin-networks evalu
 - [Telegram](https://t.me/OpenStableIndex)
 
 ## Liquidity
+Curve:
 - Ethereum: [OPEN-WETH](https://curve.fi/dex/ethereum/pools/factory-twocrypto-178/deposit/)
 - Ethereum: [SQUILL-WETH](https://curve.fi/dex/ethereum/pools/factory-twocrypto-177/deposit/)
 - Fraxtal: [SQUILL-SQUID](https://curve.fi/dex/fraxtal/pools/factory-twocrypto-44/deposit/)
+
+Uniswap:
+- Ethereum: [OPEN-WETH](https://app.uniswap.org/explore/pools/ethereum/0xaBaebcc9EEe363CeA2150eE03ac96db110F0e745)
 
 ## About
 - [About OPEN](https://leviathannews.substack.com/p/stablecoins-everyone-and-their-mom)
