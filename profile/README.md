@@ -49,7 +49,7 @@ The Open Stablecoin Index tracks leading decentralized stablecoin-networks evalu
 ## Links
 
 - [Official Website](https://www.openstablecoinindex.com)
-- [𝕏](https://x.com/$OPEN)
+- [𝕏](https://x.com/openstableindex)
 - [Telegram](https://t.me/OpenStableIndex)
 
 ## Liquidity
