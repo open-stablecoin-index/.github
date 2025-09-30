@@ -18,6 +18,8 @@ $OPEN is an equal-weight index tracking leading stablecoin-networks advancing tr
 
 ## Basket Components
 
+The inaugural basket launched with eight tokens:
+
 | Network | Token | Governed Assets | Allocation |
 |---------|-------|-----------------|------------|
 | Aave | $AAVE | GHO, a decentralized multi-collateral stablecoin | 12.5% |
@@ -28,6 +30,8 @@ $OPEN is an equal-weight index tracking leading stablecoin-networks advancing tr
 | Liquity | $LQTY | BOLD, immutable, crypto-only stablecoin | 12.5% |
 | Reserve | $RSR | USD3, eUSD, ETH+, and DTF suite | 12.5% |
 | Sky | $SKY | USDS, overcollateralized stablecoin | 12.5% |
+
+The present balance may be viewed at the Open Stable Index [website](https://openstablecoinindex.com/)
 
 ## Governance
 
@@ -53,6 +57,12 @@ The Open Stablecoin Index tracks leading decentralized stablecoin-networks evalu
 - [Telegram](https://t.me/OpenStableIndex)
 
 ## Liquidity
+
+Token Addresses:
+ - $OPEN (Ethereum): [0x323c03c48660fE31186fa82c289b0766d331Ce21](https://etherscan.io/address/0x323c03c48660fE31186fa82c289b0766d331Ce21)
+ - $SQUILL (Ethereum): [0x7ebab7190d3d574ce82d29f2fa1422f18e29969c](https://etherscan.io/token/0x7ebab7190d3d574ce82d29f2fa1422f18e29969c)
+ - $SQUILL (Fraxtal): [0x368eC3D7C755ABEA7D48B0C006D282a1abA2f898](https://fraxscan.com/address/0x368eC3D7C755ABEA7D48B0C006D282a1abA2f898)
+
 Curve:
 - Ethereum: [OPEN-WETH](https://curve.finance/dex/ethereum/pools/factory-twocrypto-178/deposit/)
 - Ethereum: [SQUILL-WETH](https://curve.finance/dex/ethereum/pools/factory-twocrypto-177/deposit/)
